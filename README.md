@@ -14,12 +14,6 @@ This is a Python-based interactive drawing application that allows users to draw
 
 ---
 
-## 📹 Demo
-
-Coming soon...
-
----
-
 ## 🛠️ Technologies Used
 
 - `OpenCV` – for video capture and frame manipulation
